@@ -1,0 +1,12 @@
+.sort-arrow {
+    cursor: pointer;
+    transition: transform 0.2s;
+  }
+  
+  .sort-arrow:hover {
+    transform: scale(1.2);
+  }
+  
+  .sort-arrow:active {
+    transform: scale(0.8);
+  }
